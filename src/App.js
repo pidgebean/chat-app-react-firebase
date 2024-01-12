@@ -5,7 +5,7 @@ import Home from './pages/Home'
 function App() {
   return (
     <div style={{backgroundColor:"#a7bcff"}} className="App">
-      <Home/>
+      <Register/>
     </div>
   )
 }
